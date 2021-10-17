@@ -1,6 +1,5 @@
 "use strict";
 
-// function playAgain() {
 let secretNumber = Math.trunc(Math.random() * 20 + 1);
 console.log("random secretNumber", secretNumber);
 
